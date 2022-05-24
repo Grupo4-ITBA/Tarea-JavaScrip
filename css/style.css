@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(245, 171, 74);
+    max-width: 58%;
+    border: 3px solid #ffffff;
+    box-shadow: 20px #000 inset;
+    border-radius: 10px;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p { font-size: larger;
+    margin: 100px;
+}
