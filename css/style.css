@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .box {
     width: 500px;
     height: 500px;
@@ -16,13 +17,17 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-image: url(/css/Clasicas\ canciones.png);
+    background-size: 10rem;
 }
 
 h1 {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
 }
 
 p { font-size: larger;
     margin: 100px;
+    background-color: orange;
 }
