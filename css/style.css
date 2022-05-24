@@ -25,9 +25,11 @@ h1 {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
     background-color: orange;
+    color: #ffffff;
 }
 
-p { font-size: larger;
+p { font-size: xx-large;
     margin: 100px;
     background-color: orange;
+    color: #ffffff
 }
